@@ -2278,6 +2278,7 @@ CON=|μt-μb|
 # Usage rate
 <table align="center">
     <tr align="center" valign="top">
+        <td></td>
         <td>LSNR</td>
         <td>LSNRG</td>
         <td>LSBR</td>
@@ -2318,7 +2319,7 @@ CON=|μt-μb|
         <td>5.45%</td>
         <td>72.73%</td>
     </tr>
-    <tr>
+    <tr align="center" valign="top">
         <td>深度算法</td>
         <td>0.00%</td>
         <td>0.00%</td>
